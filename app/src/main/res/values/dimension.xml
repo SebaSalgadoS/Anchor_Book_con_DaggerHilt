@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Dimenciones Cardview item_libro
+
+    <dimen name="marginTopTxt_cardview">8dp</dimen>
+    <dimen name="textSize_cardview">13sp</dimen>
+    <dimen name="marginTop_imageCarview">16dp</dimen>
+    <dimen name="marginStart_imageCardview">16dp</dimen>
+    <dimen name="marginStart_layouts">5dp</dimen>
+    <dimen name="margintopTitulo_cardview">16dp</dimen>
+    <dimen name="padding_borde_imageView">16dp</dimen>
+    <dimen name="padding_bottom_layout">16dp</dimen>
+
+</resources>
