@@ -2,7 +2,6 @@ package com.example.anchorbookcondaggerhilt.data.model.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater
-import android.view.TextureView
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
@@ -16,7 +15,7 @@ import com.squareup.picasso.Picasso
 
 // constante q guarda la ruta del package del proyecto
 
-const val LIBROID_MENSSAGE = "com.example.anchorbookcondaggerhilt"
+const val LIBROID_MENSSAGE = "com.example.anchorbookcondaggerhilt.LIBROID"
 
 class LibroAdapter(private val datos: List<Libro>): RecyclerView.Adapter<LibroAdapter.ViewHolder>() {
 
